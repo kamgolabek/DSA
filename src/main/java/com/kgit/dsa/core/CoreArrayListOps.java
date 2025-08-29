@@ -1,4 +1,4 @@
-package com.kgit.dsa.algo;
+package com.kgit.dsa.core;
 
 import java.util.ArrayList;
 import java.util.Arrays;

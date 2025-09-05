@@ -3,7 +3,7 @@ package com.kgit.dsa.leetcode;
 import java.util.HashMap;
 import java.util.Map;
 
-public class LongestSubstring {
+public class LongestNonRepeatingCharSubstring {
 
     public int lengthOfLongestSubstring(String s) {
         Map<Character, Integer> lastIndex = new HashMap<>();
